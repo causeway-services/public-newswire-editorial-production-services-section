@@ -1,5 +1,5 @@
 > **Data repository.** The executable code that used to live here was moved on 2026-10-24 to
-> [`red-cup-engineering/newswire-editorial-production`](https://github.com/red-cup-engineering/newswire-editorial-production), which reads this data
+> [`red-cup-engineering/public-newswire-editorial-production-services-section`](https://github.com/red-cup-engineering/public-newswire-editorial-production-services-section), which reads this data
 > (point it here with `SECTION_DATA_ROOT`, default current working directory). This repository holds data only.
 
 # @causeway-services/public-newswire-editorial-production-services-section
